@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Dev tools (не для продакшена)
+serve.py
+preview.html
+demo-variants.html
+
+# Credentials
+CREDENTIALS.md
+
+# Claude Code
+CLAUDE.md
+.claude/
+
+# Исходные тексты
+*.md
+!LESSONS.md
+
+# Временные файлы
+_to_delete/
+tmp-checks/
+Главное фото copy.png
+*.swp
+*.swo
+*~
